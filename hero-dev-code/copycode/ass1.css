@@ -1,0 +1,2783 @@
+/* Top Navigation */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 120px;
+gap: 24px;
+
+width: 1600px;
+height: 92px;
+
+/* #FFFFFF */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* fi_15563377 */
+
+margin: 0 auto;
+width: 139px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 4.85%;
+right: 61.69%;
+top: 3.33%;
+bottom: 3.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.35%;
+right: 68.19%;
+top: 3.33%;
+bottom: 40.17%;
+
+background: linear-gradient(140deg, #FEF48B 18.94%, #FDF286 30.18%, #FDEE7A 41.83%, #FCE765 53.67%, #FCDE48 65.65%, #FBD123 77.6%, #FAC600 87.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 18.39%;
+right: 68.19%;
+top: 3.33%;
+bottom: 40.17%;
+
+background: linear-gradient(127.32deg, rgba(254, 151, 56, 0) 46.56%, rgba(254, 151, 56, 0.016) 50.46%, rgba(254, 151, 56, 0.065) 54.49%, rgba(254, 151, 56, 0.147) 58.6%, rgba(254, 151, 56, 0.262) 62.75%, rgba(254, 151, 56, 0.41) 66.94%, rgba(254, 151, 56, 0.59) 71.16%, rgba(254, 151, 56, 0.8) 75.33%, #FE9738 78.83%);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.35%;
+right: 68.19%;
+top: 23.33%;
+bottom: 40.17%;
+
+background: linear-gradient(180deg, rgba(254, 151, 56, 0) 53.72%, rgba(254, 151, 56, 0.016) 56.76%, rgba(254, 151, 56, 0.065) 59.91%, rgba(254, 151, 56, 0.147) 63.12%, rgba(254, 151, 56, 0.262) 66.36%, rgba(254, 151, 56, 0.41) 69.63%, rgba(254, 151, 56, 0.59) 72.92%, rgba(254, 151, 56, 0.8) 76.17%, #FE9738 78.91%);
+
+
+/* Group */
+
+position: absolute;
+left: 17.87%;
+right: 74.7%;
+top: 31.57%;
+bottom: 45.46%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.87%;
+right: 78.86%;
+top: 31.57%;
+bottom: 45.46%;
+
+background: linear-gradient(172.66deg, rgba(254, 151, 56, 0) -71.3%, rgba(254, 151, 56, 0.016) -47.68%, rgba(254, 151, 56, 0.065) -23.18%, rgba(254, 151, 56, 0.147) 1.71%, rgba(254, 151, 56, 0.262) 26.9%, rgba(254, 151, 56, 0.41) 52.32%, rgba(254, 151, 56, 0.59) 77.91%, rgba(254, 151, 56, 0.8) 103.18%, #FE9738 124.39%);
+
+
+/* Vector */
+
+position: absolute;
+left: 22.02%;
+right: 74.7%;
+top: 31.57%;
+bottom: 45.46%;
+
+background: linear-gradient(172.66deg, rgba(254, 151, 56, 0) -85.78%, rgba(254, 151, 56, 0.016) -62.16%, rgba(254, 151, 56, 0.065) -37.66%, rgba(254, 151, 56, 0.147) -12.77%, rgba(254, 151, 56, 0.262) 12.41%, rgba(254, 151, 56, 0.41) 37.83%, rgba(254, 151, 56, 0.59) 63.43%, rgba(254, 151, 56, 0.8) 88.69%, #FE9738 109.9%);
+
+
+/* Group */
+
+position: absolute;
+left: 16.55%;
+right: 73.39%;
+top: 55.67%;
+bottom: 3.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.55%;
+right: 73.39%;
+top: 55.67%;
+bottom: 8.16%;
+
+background: linear-gradient(147.21deg, #3692BC 6.12%, #3190BA 26.07%, #258AB7 46.75%, #1081B2 67.69%, #017BAE 79.98%);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.8%;
+right: 73.39%;
+top: 55.67%;
+bottom: 8.16%;
+
+background: linear-gradient(90deg, rgba(59, 77, 84, 0) 61.16%, rgba(59, 77, 84, 0.05) 69.46%, rgba(59, 77, 84, 0.198) 78.06%, rgba(59, 77, 84, 0.444) 86.8%, rgba(59, 77, 84, 0.788) 95.59%, #3B4D54 100.09%);
+
+
+/* Vector */
+
+position: absolute;
+left: 19.66%;
+right: 76.5%;
+top: 55.67%;
+bottom: 8.16%;
+
+background: linear-gradient(270deg, #3692BC -20.19%, #3190BA 9.2%, #258AB7 39.65%, #1081B2 70.49%, #017BAE 88.58%);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.55%;
+right: 73.39%;
+top: 55.67%;
+bottom: 26.7%;
+
+background: linear-gradient(0deg, rgba(59, 77, 84, 0) 64.1%, rgba(59, 77, 84, 0.05) 69.73%, rgba(59, 77, 84, 0.198) 75.56%, rgba(59, 77, 84, 0.444) 81.49%, rgba(59, 77, 84, 0.788) 87.45%, #3B4D54 90.5%);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.62%;
+right: 73.47%;
+top: 79.7%;
+bottom: 8.02%;
+
+background: linear-gradient(90deg, #FFDFCF 23.49%, #FFDBCA 38.43%, #FFD0BE 53.91%, #FFBEA9 69.58%, #FFA78F 84.41%);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.62%;
+right: 73.47%;
+top: 79.7%;
+bottom: 8.02%;
+
+background: linear-gradient(110.12deg, rgba(248, 149, 128, 0) 60.58%, rgba(246, 148, 127, 0.021) 62.91%, rgba(243, 145, 124, 0.084) 65.33%, rgba(238, 142, 120, 0.19) 67.79%, rgba(230, 136, 115, 0.337) 70.28%, rgba(221, 130, 107, 0.528) 72.79%, rgba(209, 121, 99, 0.757) 75.28%, #C5715A 77.55%);
+
+
+/* Vector */
+
+position: absolute;
+left: 19.89%;
+right: 76.73%;
+top: 91.43%;
+bottom: 3.34%;
+
+background: linear-gradient(90deg, #766E6E 22.77%, #716B6B 33.19%, #656464 43.99%, #505757 54.92%, #384949 64.58%);
+
+
+/* Vector */
+
+position: absolute;
+left: 15.15%;
+right: 71.98%;
+top: 50.64%;
+bottom: 42.03%;
+
+background: linear-gradient(180deg, #F5FBFF 8%, #F0F8FE 28.73%, #E4F2FE 50.22%, #CFE8FE 72.04%, #B3DAFE 93.88%);
+
+
+/* Group */
+
+position: absolute;
+left: 4.85%;
+right: 61.69%;
+top: 6.14%;
+bottom: 54.72%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 4.85%;
+right: 90.19%;
+top: 6.14%;
+bottom: 54.72%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.85%;
+right: 91.62%;
+top: 23.62%;
+bottom: 72.77%;
+
+background: linear-gradient(180deg, #FE9738 7.29%, #FD9236 25.9%, #FD8633 45.17%, #FD712D 64.75%, #FD5426 84.44%, #FD5426 84.95%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.43%;
+right: 90.19%;
+top: 39.89%;
+bottom: 54.72%;
+
+background: linear-gradient(180deg, #FE9738 7.26%, #FD9236 25.81%, #FD8633 45.02%, #FD712D 64.54%, #FD5426 84.16%, #FD5426 84.67%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.33%;
+right: 90.28%;
+top: 6.14%;
+bottom: 88.5%;
+
+background: linear-gradient(180deg, #FE9738 7.45%, #FD9236 25.93%, #FD8633 45.07%, #FD712D 64.5%, #FD5426 84.05%, #FD5426 84.56%);
+
+
+/* Group */
+
+position: absolute;
+left: 33.36%;
+right: 61.69%;
+top: 6.14%;
+bottom: 54.72%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.79%;
+right: 61.69%;
+top: 23.62%;
+bottom: 72.77%;
+
+background: linear-gradient(180deg, #FE9738 7.29%, #FD9236 25.9%, #FD8633 45.17%, #FD712D 64.75%, #FD5426 84.44%, #FD5426 84.95%);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.36%;
+right: 63.26%;
+top: 39.89%;
+bottom: 54.72%;
+
+background: linear-gradient(180deg, #FE9738 7.26%, #FD9236 25.8%, #FD8633 45.02%, #FD712D 64.54%, #FD5426 84.16%, #FD5426 84.67%);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.45%;
+right: 63.16%;
+top: 6.14%;
+bottom: 88.5%;
+
+background: linear-gradient(180deg, #FE9738 7.45%, #FD9236 25.93%, #FD8633 45.07%, #FD712D 64.5%, #FD5426 84.05%, #FD5426 84.56%);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 71px;
+height: 51px;
+left: 63px;
+top: calc(50% - 51px/2 + 0.5px);
+
+
+
+/* KV */
+
+position: absolute;
+height: 36px;
+left: 45.32%;
+right: 3.6%;
+top: calc(50% - 36px/2 - 7px);
+
+/* #30B868 */
+background: #469165;
+
+
+/* Knowledge Vault */
+
+position: absolute;
+height: 8px;
+left: 45.32%;
+right: 4.32%;
+top: calc(50% - 8px/2 + 22px);
+
+/* Style */
+background: #001931;
+
+
+/* Frame 1171277696 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 365px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 67px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 152%;
+/* or 24px */
+text-transform: capitalize;
+
+/* #000000 */
+color: #000000;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 102px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 152%;
+/* or 24px */
+text-transform: capitalize;
+
+/* #000000 */
+color: #000000;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* My Classess */
+
+width: 132px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 152%;
+/* or 24px */
+text-transform: capitalize;
+
+/* #000000 */
+color: #000000;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Primary Button_2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 16px;
+gap: 10px;
+
+margin: 0 auto;
+width: 164px;
+height: 44px;
+
+/* #30B868 */
+background: #469165;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Enroll Now_2 */
+
+width: 132px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 70px 120px 134px;
+gap: 40px;
+isolation: isolate;
+
+width: 1600px;
+height: 674px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* cropped-hands-woman-writing-book 1 */
+
+position: absolute;
+width: 2042px;
+height: 1363px;
+left: -221px;
+top: -39px;
+
+background: linear-gradient(0deg, rgba(0, 25, 49, 0.8), rgba(0, 25, 49, 0.8)), url(cropped-hands-woman-writing-book.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 1171277699 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 1360px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 1171277698 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 1360px;
+height: 295px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326311 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 6px;
+
+width: 229px;
+height: 35px;
+
+background: #FFFFFF;
+border-radius: 1000px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 5 */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 12px;
+top: 9.5px;
+
+/* #30B868 */
+background: #469165;
+opacity: 0.2;
+border-radius: 8px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 14px;
+top: 11.5px;
+
+/* #30B868 */
+background: #469165;
+opacity: 0.4;
+border-radius: 8px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 17px;
+top: 14.5px;
+
+/* #30B868 */
+background: #469165;
+border-radius: 8px;
+
+
+/* Early Access Now Open */
+
+width: 183px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* #30B868 */
+color: #469165;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Structured thinking, not just note-taking. */
+
+width: 770px;
+height: 168px;
+
+/* H1 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 84px;
+/* or 117% */
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* A private space to store notes, links, and learning summaries — designed to help you think clearly, connect ideas, and turn learning into long-term knowledge. */
+
+width: 1360px;
+height: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1171277714 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 465px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Primary Button_2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 16px;
+gap: 10px;
+
+width: 251px;
+height: 52px;
+
+/* #30B868 */
+background: #469165;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Enroll Now_2 */
+
+width: 189px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.92%;
+top: 17.17%;
+bottom: 17.18%;
+
+background: #FFFFFF;
+
+
+/* Primary Button_2 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 16px;
+gap: 10px;
+
+width: 198px;
+height: 52px;
+
+border: 1px solid #FFFFFF;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Play */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.44%;
+right: 4.69%;
+top: 7.82%;
+bottom: 7.82%;
+
+background: #FFFFFF;
+
+
+/* Enroll Now_2 */
+
+width: 136px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Apps */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 120px 120px;
+gap: 44px;
+
+width: 1600px;
+height: 448px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1171277708 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1360px;
+height: 152px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Notes don't fail, Structure does. */
+
+width: 1360px;
+height: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+text-transform: capitalize;
+
+/* #001931 */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* You're not bad at learning. Your tools just weren't built for how knowledge actually works. */
+
+width: 1360px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326313 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 1360px;
+height: 300px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326259 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px;
+gap: 16px;
+
+width: 322px;
+height: 300px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Group 6 */
+
+width: 60px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 131px;
+top: 69.5px;
+
+background: #F95555;
+
+
+/* Stack */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 145.09px;
+top: 83.54px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.79%;
+right: 7.79%;
+top: 4.69%;
+bottom: 4.68%;
+
+background: #FFFFFF;
+
+
+/* Days */
+
+width: 274px;
+height: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+text-transform: capitalize;
+
+/* #001931 */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Your ideas live in 10 different apps, none of them connected. */
+
+width: 274px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326260 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px;
+gap: 16px;
+
+width: 322px;
+height: 300px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Group 6 */
+
+width: 60px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 131px;
+top: 69.5px;
+
+background: #F95555;
+
+
+/* Bookmarks */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 144.93px;
+top: 83.88px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.19%;
+right: 17.19%;
+top: 7.81%;
+bottom: 7.81%;
+
+background: #FFFFFF;
+
+
+/* Days */
+
+width: 274px;
+height: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+text-transform: capitalize;
+
+/* #001931 */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Hundreds of saved links you'll never revisit or remember. */
+
+width: 274px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326261 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px;
+gap: 16px;
+
+width: 322px;
+height: 300px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Group 6 */
+
+width: 60px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 131px;
+top: 69.5px;
+
+background: #F95555;
+
+
+/* Brain */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 144.67px;
+top: 83.11px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.56%;
+right: 1.56%;
+top: 7.82%;
+bottom: 10.95%;
+
+background: #FFFFFF;
+
+
+/* Days */
+
+width: 274px;
+height: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+text-transform: capitalize;
+
+/* #001931 */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Insights stay isolated, never building into bigger understanding. */
+
+width: 274px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326262 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px;
+gap: 16px;
+
+width: 322px;
+height: 300px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Group 6 */
+
+width: 60px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 131px;
+top: 55px;
+
+background: #F95555;
+
+
+/* Info */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 144.83px;
+top: 69.36px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.81%;
+right: 7.81%;
+top: 7.81%;
+bottom: 7.81%;
+
+background: #FFFFFF;
+
+
+/* Days */
+
+width: 274px;
+height: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: capitalize;
+
+/* #001931 */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Knowledge fades because there's no system to retain it. */
+
+width: 274px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Apps */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 120px;
+gap: 40px;
+
+width: 1600px;
+height: 840px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 2087326314 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 60px;
+
+width: 1360px;
+height: 600px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 600px;
+height: 600px;
+
+background: url(image.png);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1171277708 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 700px;
+height: 396px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 2087326315 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 700px;
+height: 228px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* The Solution */
+
+width: 700px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-transform: uppercase;
+
+/* #30B868 */
+color: #469165;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Your second brain, structured by design. */
+
+width: 700px;
+height: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-transform: capitalize;
+
+/* #001931 */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Personal Knowledge Vault isn't another note-taking app. z It's a thinking environment where every note, link, and summary becomes part of an interconnected web of understanding. */
+
+width: 700px;
+height: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326316 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 700px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326317 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 700px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CheckCircle */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #30B868;
+
+
+/* Capture ideas with structure built-in from day one */
+
+width: 382px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Style */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2087326318 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 700px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CheckCircle */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #30B868;
+
+
+/* Connect related concepts automatically as you write */
+
+width: 402px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Style */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2087326319 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 700px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CheckCircle */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #30B868;
+
+
+/* Build lasting knowledge through reflection prompts */
+
+width: 391px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Style */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2087326320 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 700px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CheckCircle */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #30B868;
+
+
+/* Find anything instantly with semantic search */
+
+width: 342px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Style */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Apps */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 2px 120px 120px;
+gap: 40px;
+
+width: 1600px;
+height: 506px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 1171277708 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 80px 40px;
+gap: 24px;
+
+width: 1360px;
+height: 384px;
+
+background: #F7F6F2;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326321 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1280px;
+height: 112px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ready to think more clearly? */
+
+width: 1280px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+text-transform: capitalize;
+
+/* Style */
+color: #001931;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Join thousands of learners who are building their personal knowledge vaults. Start free, no credit card required. */
+
+width: 1280px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2087326322 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 1280px;
+height: 88px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Primary Button_2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 16px;
+gap: 10px;
+
+width: 194px;
+height: 52px;
+
+/* #30B868 */
+background: #469165;
+box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Enroll Now_2 */
+
+width: 132px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.92%;
+top: 17.17%;
+bottom: 17.18%;
+
+background: #FFFFFF;
+
+
+/* Free during early access • No credit card needed */
+
+width: 1280px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-align: center;
+
+/* #627382 */
+color: #627382;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 120px 120px 30px;
+gap: 80px;
+
+width: 1600px;
+height: 348px;
+
+/* Style */
+background: #001931;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1360px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Description */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 350px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* fi_15563377 */
+
+width: 139px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 4.85%;
+right: 61.69%;
+top: 3.33%;
+bottom: 3.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.35%;
+right: 68.19%;
+top: 3.33%;
+bottom: 40.17%;
+
+background: linear-gradient(140deg, #FEF48B 18.94%, #FDF286 30.18%, #FDEE7A 41.83%, #FCE765 53.67%, #FCDE48 65.65%, #FBD123 77.6%, #FAC600 87.23%);
+
+
+/* Vector */
+
+position: absolute;
+left: 18.39%;
+right: 68.19%;
+top: 3.33%;
+bottom: 40.17%;
+
+background: linear-gradient(127.32deg, rgba(254, 151, 56, 0) 46.56%, rgba(254, 151, 56, 0.016) 50.46%, rgba(254, 151, 56, 0.065) 54.49%, rgba(254, 151, 56, 0.147) 58.6%, rgba(254, 151, 56, 0.262) 62.75%, rgba(254, 151, 56, 0.41) 66.94%, rgba(254, 151, 56, 0.59) 71.16%, rgba(254, 151, 56, 0.8) 75.33%, #FE9738 78.83%);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.35%;
+right: 68.19%;
+top: 23.33%;
+bottom: 40.17%;
+
+background: linear-gradient(180deg, rgba(254, 151, 56, 0) 53.72%, rgba(254, 151, 56, 0.016) 56.76%, rgba(254, 151, 56, 0.065) 59.91%, rgba(254, 151, 56, 0.147) 63.12%, rgba(254, 151, 56, 0.262) 66.36%, rgba(254, 151, 56, 0.41) 69.63%, rgba(254, 151, 56, 0.59) 72.92%, rgba(254, 151, 56, 0.8) 76.17%, #FE9738 78.91%);
+
+
+/* Group */
+
+position: absolute;
+left: 17.87%;
+right: 74.7%;
+top: 31.57%;
+bottom: 45.46%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.87%;
+right: 78.86%;
+top: 31.57%;
+bottom: 45.46%;
+
+background: linear-gradient(172.66deg, rgba(254, 151, 56, 0) -71.3%, rgba(254, 151, 56, 0.016) -47.68%, rgba(254, 151, 56, 0.065) -23.18%, rgba(254, 151, 56, 0.147) 1.71%, rgba(254, 151, 56, 0.262) 26.9%, rgba(254, 151, 56, 0.41) 52.32%, rgba(254, 151, 56, 0.59) 77.91%, rgba(254, 151, 56, 0.8) 103.18%, #FE9738 124.39%);
+
+
+/* Vector */
+
+position: absolute;
+left: 22.02%;
+right: 74.7%;
+top: 31.57%;
+bottom: 45.46%;
+
+background: linear-gradient(172.66deg, rgba(254, 151, 56, 0) -85.78%, rgba(254, 151, 56, 0.016) -62.16%, rgba(254, 151, 56, 0.065) -37.66%, rgba(254, 151, 56, 0.147) -12.77%, rgba(254, 151, 56, 0.262) 12.41%, rgba(254, 151, 56, 0.41) 37.83%, rgba(254, 151, 56, 0.59) 63.43%, rgba(254, 151, 56, 0.8) 88.69%, #FE9738 109.9%);
+
+
+/* Group */
+
+position: absolute;
+left: 16.55%;
+right: 73.39%;
+top: 55.67%;
+bottom: 3.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.55%;
+right: 73.39%;
+top: 55.67%;
+bottom: 8.16%;
+
+background: linear-gradient(147.21deg, #3692BC 6.12%, #3190BA 26.07%, #258AB7 46.75%, #1081B2 67.69%, #017BAE 79.98%);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.8%;
+right: 73.39%;
+top: 55.67%;
+bottom: 8.16%;
+
+background: linear-gradient(90deg, rgba(59, 77, 84, 0) 61.16%, rgba(59, 77, 84, 0.05) 69.46%, rgba(59, 77, 84, 0.198) 78.06%, rgba(59, 77, 84, 0.444) 86.8%, rgba(59, 77, 84, 0.788) 95.59%, #3B4D54 100.09%);
+
+
+/* Vector */
+
+position: absolute;
+left: 19.66%;
+right: 76.5%;
+top: 55.67%;
+bottom: 8.16%;
+
+background: linear-gradient(270deg, #3692BC -20.19%, #3190BA 9.2%, #258AB7 39.65%, #1081B2 70.49%, #017BAE 88.58%);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.55%;
+right: 73.39%;
+top: 55.67%;
+bottom: 26.7%;
+
+background: linear-gradient(0deg, rgba(59, 77, 84, 0) 64.1%, rgba(59, 77, 84, 0.05) 69.73%, rgba(59, 77, 84, 0.198) 75.56%, rgba(59, 77, 84, 0.444) 81.49%, rgba(59, 77, 84, 0.788) 87.45%, #3B4D54 90.5%);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.62%;
+right: 73.47%;
+top: 79.7%;
+bottom: 8.02%;
+
+background: linear-gradient(90deg, #FFDFCF 23.49%, #FFDBCA 38.43%, #FFD0BE 53.91%, #FFBEA9 69.58%, #FFA78F 84.41%);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.62%;
+right: 73.47%;
+top: 79.7%;
+bottom: 8.02%;
+
+background: linear-gradient(110.12deg, rgba(248, 149, 128, 0) 60.58%, rgba(246, 148, 127, 0.021) 62.91%, rgba(243, 145, 124, 0.084) 65.33%, rgba(238, 142, 120, 0.19) 67.79%, rgba(230, 136, 115, 0.337) 70.28%, rgba(221, 130, 107, 0.528) 72.79%, rgba(209, 121, 99, 0.757) 75.28%, #C5715A 77.55%);
+
+
+/* Vector */
+
+position: absolute;
+left: 19.89%;
+right: 76.73%;
+top: 91.43%;
+bottom: 3.34%;
+
+background: linear-gradient(90deg, #766E6E 22.77%, #716B6B 33.19%, #656464 43.99%, #505757 54.92%, #384949 64.58%);
+
+
+/* Vector */
+
+position: absolute;
+left: 15.15%;
+right: 71.98%;
+top: 50.64%;
+bottom: 42.03%;
+
+background: linear-gradient(180deg, #F5FBFF 8%, #F0F8FE 28.73%, #E4F2FE 50.22%, #CFE8FE 72.04%, #B3DAFE 93.88%);
+
+
+/* Group */
+
+position: absolute;
+left: 4.85%;
+right: 61.69%;
+top: 6.14%;
+bottom: 54.72%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 4.85%;
+right: 90.19%;
+top: 6.14%;
+bottom: 54.72%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.85%;
+right: 91.62%;
+top: 23.62%;
+bottom: 72.77%;
+
+background: linear-gradient(180deg, #FE9738 7.29%, #FD9236 25.9%, #FD8633 45.17%, #FD712D 64.75%, #FD5426 84.44%, #FD5426 84.95%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.43%;
+right: 90.19%;
+top: 39.89%;
+bottom: 54.72%;
+
+background: linear-gradient(180deg, #FE9738 7.26%, #FD9236 25.81%, #FD8633 45.02%, #FD712D 64.54%, #FD5426 84.16%, #FD5426 84.67%);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.33%;
+right: 90.28%;
+top: 6.14%;
+bottom: 88.5%;
+
+background: linear-gradient(180deg, #FE9738 7.45%, #FD9236 25.93%, #FD8633 45.07%, #FD712D 64.5%, #FD5426 84.05%, #FD5426 84.56%);
+
+
+/* Group */
+
+position: absolute;
+left: 33.36%;
+right: 61.69%;
+top: 6.14%;
+bottom: 54.72%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.79%;
+right: 61.69%;
+top: 23.62%;
+bottom: 72.77%;
+
+background: linear-gradient(180deg, #FE9738 7.29%, #FD9236 25.9%, #FD8633 45.17%, #FD712D 64.75%, #FD5426 84.44%, #FD5426 84.95%);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.36%;
+right: 63.26%;
+top: 39.89%;
+bottom: 54.72%;
+
+background: linear-gradient(180deg, #FE9738 7.26%, #FD9236 25.8%, #FD8633 45.02%, #FD712D 64.54%, #FD5426 84.16%, #FD5426 84.67%);
+
+
+/* Vector */
+
+position: absolute;
+left: 33.45%;
+right: 63.16%;
+top: 6.14%;
+bottom: 88.5%;
+
+background: linear-gradient(180deg, #FE9738 7.45%, #FD9236 25.93%, #FD8633 45.07%, #FD712D 64.5%, #FD5426 84.05%, #FD5426 84.56%);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 71px;
+height: 51px;
+left: 63px;
+top: calc(50% - 51px/2 + 0.5px);
+
+
+
+/* KV */
+
+position: absolute;
+height: 36px;
+left: 45.32%;
+right: 3.6%;
+top: calc(50% - 36px/2 - 7px);
+
+/* #30B868 */
+background: #469165;
+
+
+/* Knowledge Vault */
+
+position: absolute;
+height: 8px;
+left: 45.32%;
+right: 4.32%;
+top: calc(50% - 8px/2 + 22px);
+
+background: #FFFFFF;
+
+
+/* Frame 1171277686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 220px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Social Links */
+
+width: 113px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1171277713 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 92px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1171277687 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* fi_5969020 */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.25%;
+right: 21.25%;
+top: 20.6%;
+bottom: 20.64%;
+
+background: #000000;
+
+
+/* Frame 1171277689 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* fi_145807 */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 24.13%;
+right: 20.13%;
+top: 21.37%;
+bottom: 25.36%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.13%;
+right: 20.13%;
+top: 21.37%;
+bottom: 25.36%;
+
+background: #000000;
+
+
+/* Frame 1171277690 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* fi_5968764 */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.61%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.49%;
+right: 27.73%;
+top: 19.53%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Frame 1171277692 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1360px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 3 */
+
+width: 1360px;
+height: 0px;
+
+opacity: 0.2;
+/* DS New/Colors/Stroke/Gray-Light */
+border: 1px solid #E5E7EB;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* © 2026 Personal Knowledge Vault. All rights reserved. */
+
+width: 1360px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FAFAFA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
